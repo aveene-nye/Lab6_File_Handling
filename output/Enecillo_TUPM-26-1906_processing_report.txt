@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Enecillo
+Student ID: TUPM-26-1906
+Seed Digit: 6
+ID sum: 24
+Verifcation Value: 198
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON File: Enecillo_TUPM-26-1906_record.json
+Backup File: Enecillo_TUPM-26-1906_record.csv
